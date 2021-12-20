@@ -8,7 +8,7 @@ require 'jsontocsv/version.rb'
 
 
 Gem::Specification.new do |spec|
-  spec.name = "jsontocsv"
+  spec.name = "jsontocsv_MJG"
   spec.version = Jsontocsv::VERSION
   spec.authors = ["Salah Alaoui"]
   spec.email = ["salaoui@onestock-retail.com"]
