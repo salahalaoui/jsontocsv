@@ -48,3 +48,33 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/salaha
 ## License
 
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+## How to test it
+
+use:
+
+    $ bundle exec rspec spec
+or:
+
+    $ rake spec
+
+results :
+
+    $ Jsontocsv
+    $ CLI displays help
+    $ CLI displays convert help
+    $ CLI displays version help
+    $ CLI converts file
+
+    $ Jsontocsv::Convert
+    $ can load json file
+    $ can get recursive keys
+    $ output csv file from an array of hash
+    $ can convert json file to csv
+    $ can convert multiple json files to csv files
+
+    $ Jsontocsv
+    $ has a version number
+
+    $ Finished in 1.11 seconds (files took 0.10799 seconds to load)
+    $ 10 examples, 0 failures
