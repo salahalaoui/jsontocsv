@@ -31,7 +31,6 @@ require 'jsontocsv'
 
 JsonToCsv::Convert.convert('your_file.json')
 ```
-This will convert your JSON into a CSV file, generated right in the directory from which your calling the method.
 
 
 
