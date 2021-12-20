@@ -44,7 +44,7 @@ RSpec.describe Jsontocsv::Convert do
         Jsontocsv::Convert.process([
             {"id"=>0, "email"=>"colleengriffith@quintity.com"},
             {"id"=>1, "email"=>"maryellengriffin@ginkle.com"}
-            ], 'data/output.csv',[["id"],
+            ], [["id"],
             ["email"]], {"help"=>false,
                 :help=>false,
                 "d"=>";",
