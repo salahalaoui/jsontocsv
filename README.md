@@ -7,7 +7,7 @@ This Ruby lib aims at converting JSON files composed of arrays of objects (all f
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'jsontocsv'
+gem 'jsontocsv_MJG'
 ```
 
 And then execute:
@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install jsontocsv
+    $ gem install jsontocsv_MJG
 
 ## Usage
 ### From the console
