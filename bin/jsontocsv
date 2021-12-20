@@ -1,0 +1,5 @@
+#! /usr/bin/env ruby
+
+require_relative '../lib/jsontocsv/lib'
+require_relative '../lib/jsontocsv/version'
+require_relative '../lib/jsontocsv/cli/cli'
